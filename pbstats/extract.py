@@ -87,3 +87,5 @@ def extract_data(rawData):
     if not invalid_data.empty:
         display(invalid_data)
         print("Warning: Some data is invalid")
+
+    return augmented_visit_df
