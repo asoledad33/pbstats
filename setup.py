@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 DESCRIPTION = 'A package that extracts data from a json file and displays statistics'
 
 setuptools.setup(
-    name="plotbeeStatistics",
+    name="pbstats",
     version="0.0.1",
     packages=setuptools.find_packages(),
     classifiers=[
