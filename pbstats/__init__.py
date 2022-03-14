@@ -1,2 +1,2 @@
 from pbstats.extract import extract_data
-from pbstats.stats import display_statistics_table
+from pbstats.stats import show_statistics_table
